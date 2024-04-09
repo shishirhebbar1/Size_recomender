@@ -1,5 +1,5 @@
 streamlit
-python3-opencv
+opencv-contrib-python
 matplotlib>=3.3.0
 pillow>=7.1.2
 pyyaml>=5.3.1
