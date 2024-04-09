@@ -1,8 +1,5 @@
 import streamlit as st
-from PIL import Image
 from ultralytics import YOLO
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
 st.set_page_config(
     page_title="CAMERA APP",
     page_icon="",
